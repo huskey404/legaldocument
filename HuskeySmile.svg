@@ -7,40 +7,12 @@
    width="800"
    height="800"
    viewBox="0 0 800 800"
-   sodipodi:docname="HuskeyLogov2NoBG.svg"
-   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
-   inkscape:export-filename="HuskeyLogoNoBG"
-   inkscape:export-xdpi="96"
-   inkscape:export-ydpi="96"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
   <defs
      id="defs6" />
-  <sodipodi:namedview
-     id="namedview4"
-     pagecolor="#505050"
-     bordercolor="#ffffff"
-     borderopacity="1"
-     inkscape:showpageshadow="0"
-     inkscape:pageopacity="0"
-     inkscape:pagecheckerboard="1"
-     inkscape:deskcolor="#505050"
-     showgrid="false"
-     inkscape:zoom="0.518125"
-     inkscape:cx="261.5199"
-     inkscape:cy="424.60796"
-     inkscape:window-width="1920"
-     inkscape:window-height="1009"
-     inkscape:window-x="1912"
-     inkscape:window-y="-8"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="layer1" />
   <g
-     inkscape:groupmode="layer"
-     inkscape:label="Image"
      id="g8">
     <image
        width="800"
@@ -51,20 +23,10 @@
        id="image10" />
   </g>
   <g
-     inkscape:groupmode="layer"
-     id="layer1"
-     inkscape:label="sketch">
+     id="layer1">
     <path
-       style="opacity:1;fill:#000000;stroke-width:1.81689"
+       style="opacity:1;fill:#ffffff;stroke-width:1.81689"
        id="path619"
-       sodipodi:type="arc"
-       sodipodi:cx="-437.53705"
-       sodipodi:cy="-344.95074"
-       sodipodi:rx="343.42401"
-       sodipodi:ry="343.42401"
-       sodipodi:start="3.1415927"
-       sodipodi:end="0"
-       sodipodi:arc-type="slice"
        d="m -780.96106,-344.95074 a 343.42401,343.42401 0 0 1 343.42401,-343.42402 343.42401,343.42401 0 0 1 343.424013,343.42402 H -437.53705 Z"
        transform="rotate(-174.26252)" />
   </g>
